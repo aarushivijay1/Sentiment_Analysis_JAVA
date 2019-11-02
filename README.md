@@ -18,7 +18,7 @@ http://central.maven.org/maven2/edu/stanford/nlp/stanford-corenlp/3.8.0/stanford
 
 ## Output Screen
 
-The following is the image for the output when the text is particularly neutral.
+The following is the image for the output when the text is - "Particularly not a good response from his side."
 
 ![Screenshot 2019-11-02 at 4 31 36 PM](https://user-images.githubusercontent.com/52317352/68076709-c7284800-fd8e-11e9-9f18-edfa0955388d.png)
 
