@@ -14,3 +14,7 @@ http://central.maven.org/maven2/edu/stanford/nlp/stanford-corenlp/3.8.0/stanford
 - Make sure you add these libraries and configure their build path. 
 
 - After adding all three libraries, go to mains.java and add your text for sentiment analysis using JAVA.
+
+
+## Output Screen
+
