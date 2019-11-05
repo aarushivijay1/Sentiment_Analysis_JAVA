@@ -27,6 +27,18 @@ public class Milestone2Main {
         rich.method2longestword(nostopwordsstring);
         rich.method3numberoforiginalwords(nostopwordsstring);
         rich.method4SATwords("/Users/nicholasrichardson/Desktop/MILESTONE2-master/satwords.txt", nostopwordsstring);
+			
+			analyze sentimentAnalyzer = new analyze();
+			sentimentAnalyzer.initialize();
+			answer sentimentResult = sentimentAnalyzer.getSentimentResult(nostopwordsstring);
+
+			System.out.println("Sentiment Score: " + sentimentResult.getSentimentScore());
+			System.out.println("Sentiment Type: " + sentimentResult.getSentimentType());
+			System.out.println("Very positive: " + sentimentResult.getSentimentClass().getVeryPositive()+"%");
+			System.out.println("Positive: " + sentimentResult.getSentimentClass().getPositive()+"%");
+			System.out.println("Neutral: " + sentimentResult.getSentimentClass().getNeutral()+"%");
+			System.out.println("Negative: " + sentimentResult.getSentimentClass().getNegative()+"%");
+			System.out.println("Very negative: " + sentimentResult.getSentimentClass().getVeryNegative()+"%");
 
 
 
