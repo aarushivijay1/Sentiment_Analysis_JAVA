@@ -26,4 +26,5 @@ The following is the image for the output when the text is - "Particularly not a
 
 The following is the image for the output when the text is - "I was a happy beautiful flower blooming in the fields."
 
-![Screenshot 2019-11-02 at 4 32 08 PM](https://user-images.githubusercontent.com/52317352/68076763-59305080-fd8f-11e9-8094-47dd658b7af8.png)
+![68076763-59305080-fd8f-11e9-8094-47dd658b7af8](https://user-images.githubusercontent.com/52317352/68232558-5ae65800-ffcb-11e9-9fa1-ebc618f3de5e.png)
+
