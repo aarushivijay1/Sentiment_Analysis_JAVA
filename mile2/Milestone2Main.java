@@ -10,7 +10,7 @@ import java.util.Collection;
 
 public class Milestone2Main {
 
-	public static void main (String [] args) throws Exception{ 
+	public static void main (String [] args) throws Exception. IOException{ 
 		
 		Milestone2Article a = new Milestone2Article();
 		String nytimes = "/Users/nicholasrichardson/Desktop/MILESTONE2-master/guardian.txt";
