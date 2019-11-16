@@ -36,10 +36,14 @@ Next, go to Libraries and select classpath -
 
 Adding the external JAR libraries would be the final step
 
+![Screenshot 2019-11-16 at 3 23 57 AM](https://user-images.githubusercontent.com/52317352/68990405-9f21f580-0820-11ea-8474-89672921ed04.png)
+
 We finally have all the three libraries up and running for our use. 
+
 - Once you have done that, add the file location to the article reader (Article.java class)
 
 - After adding all three libraries and articles, go to main.java and just run the code!
 
+## OUTPUT 
 
 
