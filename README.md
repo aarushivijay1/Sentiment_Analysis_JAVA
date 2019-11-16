@@ -1,22 +1,12 @@
-# DOCUMENTATION FOR MILESTONE 2
+# SENTIMENT ANALYSIS 
 
-## DESIGN 
+This program is built in JAVA and used the StanfordCore NLP library for the sentiment analysis of the text articles. 
 
-We have the following classes in our project -> 
+## DATASET 
 
-- Article.java - This class basically reads whatever article you choose 
+The following articles comprise our dataset:
 
-- StopWordEliminator.java - This class eliminates the stop words from the articles
-
-- Counter.java - This class counts basic text statistics on the article with stopwords removed
-
-- VocabRichness.java - This class tests if the stopwords removed article's vocab is rich or not 
-
-- freqtest.java - This class does frequency test on the article with no stopwords
-
-- analyze.java - This class uses StanfordCoreNLP to analyze the sentiment of the article without stopwords
-
-- classify.java & answer.java - getters and setters for sentiment analysis 
+- 
 
 
 ## HOW TO USE 
