@@ -26,7 +26,11 @@ The following articles comprise our dataset:
 
 - Open the files in Eclipse 4.10 to ensure smooth running of the files
 
-- Next thing would be to ensure you add these libraries and configure their build path. 
+- Next thing would be to ensure you add these libraries and configure their build path. To configure the build path, go the src folder, click "Build Path" like it's shown below - 
+
+![Screenshot 2019-11-16 at 3 23 19 AM](https://user-images.githubusercontent.com/52317352/68990398-97625100-0820-11ea-9a91-838e65daf7a9.png)
+
+Next, go to Libraries and select classpath - 
 
 - Once you have done that, add the file location to the article reader (Article.java class)
 
