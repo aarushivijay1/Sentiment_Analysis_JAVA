@@ -10,10 +10,10 @@ The following articles comprise our dataset:
 
 - Gaurdian : Deepwater Horizon and the Gulf oil spill - the key questions answered. Link for the article found here : https://www.theguardian.com/environment/2011/apr/20/deepwater-horizon-key-questions-answered 
 
-- New York Times : 
+- New York Times : Explosion in the Gulf. Link for the article found here: https://www.nytimes.com/2010/04/24/opinion/24sat2.html
 
 
-## HOW TO USE 
+## HOW TO SET-UP
 
 - Download the following libraries, source files and text files given in this repository. 
 
@@ -21,9 +21,14 @@ The following articles comprise our dataset:
 
     http://central.maven.org/maven2/edu/stanford/nlp/stanford-corenlp/3.8.0/stanford-corenlp-3.8.0-models-english.jar
 
+
+## HOW TO USE 
+
+- Open the files in Eclipse 4.10 to ensure smooth running of the files
+
 - Next thing would be to ensure you add these libraries and configure their build path. 
 
-- Add the file location to the article reader (Article.java class)
+- Once you have done that, add the file location to the article reader (Article.java class)
 
 - After adding all three libraries and articles, go to main.java and just run the code!
 
