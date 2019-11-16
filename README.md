@@ -6,9 +6,11 @@ This program is built in JAVA and used the StanfordCore NLP library for the sent
 
 The following articles comprise our dataset:
 
-- Britannica: Deepwater Horizon Oil Spill https://www.britannica.com/event/Deepwater-Horizon-oil-spill
+- Britannica: Deepwater Horizon Oil Spill. Link for the article found here: https://www.britannica.com/event/Deepwater-Horizon-oil-spill
 
-- 
+- Gaurdian : Deepwater Horizon and the Gulf oil spill - the key questions answered. Link for the article found here : https://www.theguardian.com/environment/2011/apr/20/deepwater-horizon-key-questions-answered 
+
+- New York Times : 
 
 
 ## HOW TO USE 
